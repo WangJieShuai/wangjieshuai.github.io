@@ -1,2 +1,0 @@
-# wangjieshuai.github.io
-blog
